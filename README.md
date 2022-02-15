@@ -1,7 +1,7 @@
 # Bla.Games
 repositorio de bla
 
-## Proyectos por -Zaker:
+## Proyectos por -Zaquer:
 Bla Souls,
 Bla
 ## Proyectos por -210941:
